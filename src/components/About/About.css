@@ -1,0 +1,52 @@
+
+.profileimage{
+
+    height: 500px;
+    width: 400px;
+    margin-top: 10%;
+    /* margin-left:5%; */
+
+
+
+
+
+
+    /* height: auto;
+    width: auto;
+    margin-top: 35%;
+    margin-left:5%; */
+    /* position: relative;
+    display: flex;
+    margin-bottom: 2%; */
+}
+
+.mee{
+
+    display:grid;
+    border-bottom: 2px solid black;
+    width: 200px;
+    margin-top: 10%;
+}
+
+
+
+/* .mee{
+
+    margin-top: 30%;
+    margin-left:5%;
+    display: grid;
+    border-bottom: 2px solid black;
+    width:200px;
+
+} */
+
+/* .mee1{
+
+     /* margin-left: 5%; */
+    /* margin-top: 37%; */
+    /*margin-right: 5%;
+    display: grid;
+}
+     */
+
+
